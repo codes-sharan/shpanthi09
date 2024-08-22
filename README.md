@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shpanthi09
-- 👀 I’m interested in web development 
+- 👀 I’m interested in responsive web development 
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on MERN Stack projects
 - 📫 How to reach me: shpanthi09@gmail.com
